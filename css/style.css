@@ -274,7 +274,7 @@ header .header-right .hamburger div {
 
 .cstext h1 {
     margin-top: 10%;
-    margin-bottom: 14%;
+    margin-bottom: 0%;
 }
 
 .cstext img {
@@ -776,7 +776,7 @@ footer {
     header.sticky .header-left nav.active {
         top: 79px !important;
         z-index: 9;
-        background: #FFFAEF;
+        background: #1e2022;
     }
 
     header.sticky nav ul li a {
