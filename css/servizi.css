@@ -1,0 +1,45 @@
+
+  body {
+    background-color: #FFFAEF;
+    color: black !important;
+  }
+
+  main {
+    background-color: #FFFAEF !important;
+  }
+
+  .cstext {
+    margin-bottom: 58px;
+    background-color: #FFFAEF;
+  }
+  
+
+
+
+  @media only screen and (max-width: 1000px) {
+    header .header-left nav {
+        margin: 0;
+        position: absolute;
+        top: -325px;
+        left: 0;
+        width: 100%;
+        height: fit-content;
+        background-color: #FFFAEF;
+        padding: 30px;
+        transition: 0.3s;
+        text-align: center;
+        z-index: -1;
+    }
+
+
+    .sectitle, h1 {
+        font-family: "Poppins";
+        color: black;
+        text-align: center;
+        font-size: 25px;
+        font-weight: 100;
+        padding-top: 60px;
+    }
+}
+
+
